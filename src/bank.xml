@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+    <client>
+        <clientID>111</clientID>
+        <firstName>Ram</firstName>
+        <balance>10000</balance>
+    </client>
+    <client>
+        <clientID>112</clientID>
+        <firstName>Joy</firstName>
+        <balance>20000</balance>
+    </client>
+
+    <client>
+        <clientID>114</clientID>
+        <firstName>Max</firstName>
+        <balance>30000</balance>
+    </client>
+    <client>
+        <clientID>115</clientID>
+        <firstName>Raj</firstName>
+        <balance>50000</balance>
+    </client>
+    </bank>
